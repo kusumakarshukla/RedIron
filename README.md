@@ -15,7 +15,7 @@ Chrome Driver Version : 94.0.4606.61
 git clone https://github.com/kusumakarshukla/RedIron.git
 
 - Navigate inside the root folder 
-cd REDIRON
+  - cd RedIron
 
 - Create a virtual environment
   -  python3 -m venv venv_name
